@@ -33,7 +33,7 @@ We leverage a hybrid architecture that capitalizes on the strengths of both CNNs
 
 The model is trained on the **EEG Brainwave Dataset: Feeling Emotions**, which contains pre-processed EEG data.
 
-- **Source**: [Kaggle EEG Brainwave Dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-brainwave-dataset-feeling-emotions)
+- **Source**: [Kaggle EEG Brainwave Dataset](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions/data)
 - **Files Used**: `emotions.csv`
 - **Labels**: The dataset is categorized into three emotional states:
   - `POSITIVE`
